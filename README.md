@@ -11,3 +11,6 @@ it classify  the disease  based on the image recived from the user
 
 
 ->TO add model that classify other imagesa
+
+
+->to make it small
